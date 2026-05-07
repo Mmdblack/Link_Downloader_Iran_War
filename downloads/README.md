@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [hunyuanvideo_foley_xl](./hunyuanvideo_foley_xl)
 - [watch](./watch)
 
 ---
