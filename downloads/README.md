@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [hunyuanvideo_foley_xl](./hunyuanvideo_foley_xl)
+- [synchformer_state_dict](./synchformer_state_dict)
 - [watch](./watch)
 
 ---
