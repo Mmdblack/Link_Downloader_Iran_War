@@ -237,6 +237,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [3e714e0465e395272125efc1e40285f98f7db81956d921339db5938e2ec4f6f3](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/3e714e0465e395272125efc1e40285f98f7db81956d921339db5938e2ec4f6f3)
@@ -263,10 +265,12 @@ a
 
 12. [synchformer_state_dict](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/synchformer_state_dict)
 
-13. [torch-2.6.0+cu124-cp39-cp39-win_amd64](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/torch-2.6.0+cu124-cp39-cp39-win_amd64)
+13. [torch-2.6.0+cu124-cp312-cp312-win_amd64](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/torch-2.6.0+cu124-cp312-cp312-win_amd64)
 
-14. [vae_128d_48k](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/vae_128d_48k)
+14. [torch-2.6.0+cu124-cp39-cp39-win_amd64](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/torch-2.6.0+cu124-cp39-cp39-win_amd64)
 
-15. [watch](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/watch)
+15. [vae_128d_48k](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/vae_128d_48k)
+
+16. [watch](https://github.com/Mmdblack/Link_Downloader_Iran_War/tree/main/downloads/watch)
 
 ---
