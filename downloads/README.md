@@ -8,6 +8,7 @@
 - [diffusion_pytorch_model-00001-of-00003](./diffusion_pytorch_model-00001-of-00003)
 - [f96594ee50b85c10f4fe9be81468c1f6c3651c76a8a74d2892703add34fb4b08](./f96594ee50b85c10f4fe9be81468c1f6c3651c76a8a74d2892703add34fb4b08)
 - [hunyuanvideo_foley_xl](./hunyuanvideo_foley_xl)
+- [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [models_t5_umt5-xxl-enc-bf16](./models_t5_umt5-xxl-enc-bf16)
 - [synchformer_state_dict](./synchformer_state_dict)
 - [vae_128d_48k](./vae_128d_48k)
