@@ -11,6 +11,7 @@
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [models_t5_umt5-xxl-enc-bf16](./models_t5_umt5-xxl-enc-bf16)
 - [synchformer_state_dict](./synchformer_state_dict)
+- [torch-2.6.0+cu124-cp39-cp39-win_amd64](./torch-2.6.0+cu124-cp39-cp39-win_amd64)
 - [vae_128d_48k](./vae_128d_48k)
 - [watch](./watch)
 
